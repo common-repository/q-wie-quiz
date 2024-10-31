@@ -1,0 +1,6 @@
+<?php/*
+0;Test-Quiz für das Grundmodul;Das waren leider weniger als 30 Prozent. Aber es ist ja nur ein Test.;Immerhin haben Sie schon das Mittelfeld in diesem Test erreicht.;Sehr gut. Aber das ist ja nur ein Test-Quiz;;3;themenbild.jpg;)$|jEgNB0ovPt2RpH0Ph1(=F|W)x;;;;;;;;;;;;;;;;;
+1;"In welchem bekannten Eifel-Ort steht das ""Rote Haus"" eines Tuchfabrikanten?";Wershofen;Monschau;Nürburg;2;b;monschau.jpg;z-)m}0<Art0nv}O}C3nd8[B?r_=[t*j0I$qj8z:L-qb{)wjW64|t8{BGrf0t*uVu6}{_twGMraO;Das Rote Haus wurde 1752 von dem Tuchmacher und Kaufmann Johann Heinrich Scheibler als Wohn- und Geschäftshaus erbaut und ist eines der Sehenswürdigkeiten von Monschau.;;;;;;;;;;;;;;;;
+2;Wer erfand die erste Wurst aus Soja?;Konrad Adenauer;Fritz Meinen;Ludwig Erhard;1;;;t${r}t?:{W0pzwjtG2}[8mNK$g0m*)jbD)j5;Konrad Adenauer züchtete nicht nur Rosen sondern machte auch einige Erfindungen. Unter Anderem erfand er eine Wurst aus Soja.;;;;;;;;;;;;;;;;
+3;Welchem Genre kann das Tonbeispiel zugeordnet werden?;Pop;Klassik;Mittelalter-Musik;3;a;sound.mp3;t$uY${FUTX00v2YpC-)Zy-U-|arqz)^x:0)p1}>H#W0q)2etG#ndW;Dies ist ein Beispiel für mittelalterliche Musik.;;;;;;;;;;;;;;;;
+*/?>

@@ -1,0 +1,66 @@
+
+#themenbild {
+  float:left;
+  margin-right:20px;
+}
+
+#headline {
+  font-size:14pt;
+  font-weight:bold;
+}
+
+#subline {
+  font-size:12pt;
+  font-weight:bold;
+  margin-top:10px;
+}
+
+#subline_1 {
+  font-size:14pt;
+  font-weight:bold;
+  margin-top:20px;
+  text-decoration:underline;
+}
+
+#infobox {
+  margin-top:20px;
+  margin-left:40px;
+  line-height:1.4em;
+}
+
+.erklaerung {
+  margin:0;
+  margin-left:20px;
+  margin-top:5px;
+  padding:10px;
+  width:450px;
+  background-color:#EFEFEF;
+  border:solid 1px #9F9F9F;
+  font-size:10pt;
+  margin-bottom:-10px;
+}
+
+
+.frage {
+  font-weight:bold;
+  width:600px;
+}
+
+.antwort {
+  font-weight:normal;
+  margin-top:5px;
+  line-height:1.5em;
+}
+
+.antwort_ok {
+  font-weight:bold;
+
+}
+
+.antwort_userok {
+  background-color:#CAECB3;
+}
+
+.antwort_userno {
+  background-color:#D99B9B;
+}
